@@ -125,3 +125,5 @@ if %errorlevel% EQU 1 (
     rem asdfgh
     goto :eof
 )
+
+del acun.bat
